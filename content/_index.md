@@ -5,7 +5,6 @@ date: 2022-10-24
 type: landing
 
 sections:
- 
   - block: about.avatar
     id: about
     content:
@@ -210,7 +209,7 @@ sections:
         - icon: twitter
           icon_pack: fab
           name: DM Me
-          link: 'https://twitter.com/Twitter'
+          link: 'https://twitter.com/jeibros'
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
