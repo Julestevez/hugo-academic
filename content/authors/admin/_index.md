@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Julián Estévez
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Julian
+last_name: Estevez
 
 # Status emoji
 status:
@@ -14,34 +14,32 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Robótica e inteligencia artificial
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Universidad del País Vasco
+    url: https://www.ehu.eus/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - UAVs 
+  - Machine learning
+   - Robótica colaborativa
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: PhD en Ingeniería Informática
+      institution: Universidad del País Vasco
+      year: 2016
+    - course: Ingeniería Industrial
+      institution: Universidad de Navarra
       year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -53,7 +51,7 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/Jeibros
     label: Follow me on Twitter
     display:
       header: true
@@ -62,7 +60,7 @@ social:
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/julestevez
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
@@ -80,5 +78,5 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Julian Estévez es profesor e investigador en robótica e inteligencia artificial, en la Univ. del País Vasco. Sus campos de interés son los UAVs y la navegación autónoma, el aprendizaje por refuerzo y la robótica colaborativa.
 {style="text-align: justify;"}
