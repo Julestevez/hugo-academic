@@ -5,18 +5,7 @@ date: 2022-10-24
 type: landing
 
 sections:
-  
-  
-
-        <!--Custom spacing-->
-        <div class="mb-3"></div>
-        <!--GitHub Button JS-->
-        <script async defer src="https://buttons.github.io/buttons.js"></script>
-    design:
-      background:
-        gradient_end: '#1976d2'
-        gradient_start: '#004ba0'
-        text_color_light: true
+ 
   - block: about.avatar
     id: about
     content:
