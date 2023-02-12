@@ -27,13 +27,13 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
+        - certificate_url: https://ec.europa.eu/transparency/expert-groups-register/screen/expert-groups/consult?lang=en&do=groupDetail.groupDetail&groupID=3774
           date_end: ''
-          date_start: '2021-01-25'
+          date_start: 'July 2021'
           description: ''
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
+          organization: European Commission
+          organization_url: https://ec.europa.eu/transparency/expert-groups-register/screen/expert-groups/consult?lang=en&do=groupDetail.groupDetail&groupID=3774
+          title: Expert on Artificial Intelligence in Education and Training
           url: ''
         - certificate_url: https://www.edx.org
           date_end: ''
