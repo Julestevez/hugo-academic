@@ -1,13 +1,20 @@
 ---
-title: "An example journal article"
-authors:
-- admin
-- Robert Ford
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
-doi: ""
+# title: "Hybrid Modeling of Deformable Linear Objects for Their Cooperative Transportation by Teams of Quadrotors"
+# authors:
+#- admin
+# - Robert Ford
+# author_notes:
+# - "Equal contribution"
+# - "Equal contribution"
+# date: "2015-09-01T00:00:00Z"
+# doi: ""
+
+title: "Hybrid Modeling of Deformable Linear Objects for Their Cooperative Transportation by Teams of Quadrotors"
+authors: 
+#- admin
+ - JM López-Guede; G. Garate; M. Graña
+ date: "2022"
+ doi: "https://doi.org/10.3390/app12105253"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -19,22 +26,22 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*Applied Sciences*, 12(10), 5253"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: This paper deals with the control of a team of unmanned air vehicles (UAVs), specifically quadrotors, for which their mission is the transportation of a deformable linear object (DLO), i.e., a cable, hose or similar object in quasi-stationary state, while cruising towards destination. Such missions have strong industrial applications in the transportation of hoses or power cables to specific locations, such as the emergency power or water supply in hazard situations such as fires or earthquake damaged structures. This control must be robust to withstand strong and sudden wind disturbances and remain stable after aggressive maneuvers, i.e., sharp changes of direction or acceleration. To cope with these, we have previously developed the online adaptation of the proportional derivative (PD) controllers of the quadrotors thrusters, implemented by a fuzzy logic rule system that experienced adaptation by a stochastic gradient rule. However, sagging conditions appearing when the transporting drones are too close or too far away induce singularities in the DLO catenary models, breaking apart the control system. The paper’s main contribution is the formulation of the hybrid selective model of the DLO sections as either catenaries or parabolas, which allows us to overcome these sagging conditions. We provide the specific decision rule to shift between DLO models. Simulation results demonstrate the performance of the proposed approach under stringent conditions.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Source Themes
+- Quadrotors
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://www.mdpi.com/2076-3417/12/10/5253
 url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 url_dataset: ''
 url_poster: ''
