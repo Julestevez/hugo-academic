@@ -11,7 +11,7 @@
 
 title: "Hybrid Modeling of Deformable Linear Objects for Their Cooperative Transportation by Teams of Quadrotors"
 authors: 
-#- admin
+ - admin
  - JM López-Guede; G. Garate; M. Graña
  date: "2022"
  doi: "https://doi.org/10.3390/app12105253"
