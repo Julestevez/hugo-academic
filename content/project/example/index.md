@@ -2,7 +2,7 @@
 title: CODISAVA project
 summary: A project for development of an aerotaxi
 tags:
-  - Aerial robotics, 
+  - Aerial robotics
 date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
