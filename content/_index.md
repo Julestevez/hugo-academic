@@ -14,7 +14,7 @@ sections:
       # Override your bio text from `authors/admin/_index.md`?
       text:
  
-  - block: accomplishments
+  - block: Accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
       title: 'Accomplish&shy;ments'
