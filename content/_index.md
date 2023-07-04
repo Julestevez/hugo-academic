@@ -28,9 +28,9 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - certificate_url: https://ec.europa.eu/transparency/expert-groups-register/screen/expert-groups/consult?lang=en&do=groupDetail.groupDetail&groupID=3774
-          date_end: ''
+          date_end: '2022-10-10'
           date_start: '2021-07-01'
-          description: 'Member of the European Group of Experts on Artificial Intelligence ethics in Education and Training'
+          description: Member of the European Group of Experts on Artificial Intelligence ethics in Education and Training
           organization: European Commission
           organization_url: https://ec.europa.eu/transparency/expert-groups-register/screen/expert-groups/consult?lang=en&do=groupDetail.groupDetail&groupID=3774
           title: Expert on Artificial Intelligence in Education and Training
