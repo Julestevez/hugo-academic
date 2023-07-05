@@ -14,20 +14,7 @@ sections:
       # Override your bio text from `authors/admin/_index.md`?
       text:
 
-  - block: Education
-    content:
-      title: 'Education'
-      # Date format: https://wowchemy.com/docs/customization/#date-format
-      date_format: Jan 2006
-
-      items:
-        - date_end: '2003-09-01'
-          date_start: '2009-06-30'
-          organization: TECNUN - University of Navarra
-          organization_url: https://tecnun.unav.edu/
-          title: MS Industrial Engineering
-          url: ''
-    
+  
  
   - block: Accomplishments
     content:
