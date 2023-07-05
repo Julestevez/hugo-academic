@@ -1,5 +1,5 @@
 ---
-title: "Hybrid Modeling of Deformable Linear Objects for Their Cooperative Transportation by Teams of Quadrotors"
+title: "Hybrid Modeling "
 authors:
  - admin
  - JM Lopez-Guede
