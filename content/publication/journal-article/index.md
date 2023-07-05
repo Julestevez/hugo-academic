@@ -11,12 +11,7 @@ author_notes:
 date: "2015-09-01T00:00:00Z"
 doi: 'https://doi.org/10.3390/app12105253'
 
-# title: "Hybrid Modeling of Deformable Linear Objects for Their Cooperative Transportation by Teams of Quadrotors"
-# authors: 
-# - admin
-# - JM López-Guede; G. Garate; M. Graña
-# date: "2022"
-# doi: "https://doi.org/10.3390/app12105253"
+
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
