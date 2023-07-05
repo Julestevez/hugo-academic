@@ -35,7 +35,7 @@ tags:
 - Quadrotors
 featured: false
 
-links:
+# links:
 # - name: ""
 #   url: ""
   - url_pdf: 'https://www.mdpi.com/2076-3417/12/10/5253'
