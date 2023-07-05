@@ -20,6 +20,14 @@ sections:
       title: 'Education'
       date_format: Jan 2006
       items:
+      - date_end: '2016-06-24'
+        date_start: '2012-11-05'
+        organization: University of the Basque Country
+        organization_url: https://ehu.eus
+        title: PhD Computer Science
+        Description: Quadrotor Team Modeling and Control for DLO Transportation
+        url: 'https://addi.ehu.es/handle/10810/21886'
+    
       - date_end: '2003-09-01'
         date_start: '2009-06-30'
         organization: TECNUN - University of Navarra
