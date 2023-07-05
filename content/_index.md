@@ -14,6 +14,22 @@ sections:
       # Override your bio text from `authors/admin/_index.md`?
       text:
 
+  # codigo Jeibros
+  - block: Accomplishments
+    content:
+      title: 'Education'
+      date_format: Jan 2006
+    items:
+      - certificate_url: https://ec.europa.eu/transparency/expert-groups-register/screen/expert-groups/consult?lang=en&do=groupDetail.groupDetail&groupID=3774
+        date_end: '2003-09-01'
+        date_start: '2009-06-30'
+        organization: TECNUN - University of Navarra
+        organization_url: https://tecnun.unav.edu/
+        title: MS Industrial Engineering
+        url: ''
+    
+    
+
    
  
   - block: Accomplishments
