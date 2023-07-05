@@ -1,8 +1,8 @@
 ---
-# title: "Hybrid Modeling of Deformable Linear Objects for Their Cooperative Transportation by Teams of Quadrotors"
-# authors:
-#- admin
-# - Robert Ford
+ title: "Hybrid Modeling of Deformable Linear Objects for Their Cooperative Transportation by Teams of Quadrotors"
+ authors:
+  - admin
+  - Gorka Garate
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
