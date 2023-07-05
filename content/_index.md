@@ -14,28 +14,7 @@ sections:
       # Override your bio text from `authors/admin/_index.md`?
       text
 
-    # new code (Julian)
-  - block: Accomplishments
-    content:
-      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Education'
-      subtitle:
-      # Date format: https://wowchemy.com/docs/customization/#date-format
-      date_format: Jan 2006
-      # Accomplishments.
-      #   Add/remove as many `item` blocks below as you like.
-      #   `title`, `organization`, and `date_start` are the required parameters.
-      #   Leave other parameters empty if not required.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-          date_end: '2003-09-01'
-          date_start: '2009-06-30'
-          organization: TECNUN - University of Navarra
-          organization_url: https://tecnun.unav.edu/
-          title: MS Industrial Engineering
-          url: ''
-
-  
+   
  
   - block: Accomplishments
     content:
