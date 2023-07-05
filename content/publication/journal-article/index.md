@@ -3,13 +3,11 @@
  authors:
   - admin
   - G. Garate
-  - JM Lopez Guede
-  - M. Graña
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
-date: "2015-09-01T00:00:00Z"
-doi: 'https://doi.org/10.3390/app12105253'
+date: "2022-04-07T00:00:00Z"
+doi: ''
 
 
 # Schedule page publish date (NOT publication's date).
