@@ -8,8 +8,8 @@
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
-date: "2021"
-doi: "https://doi.org/10.3390/app12105253"
+# date: "2021"
+doi: 'https://doi.org/10.3390/app12105253'
 
 # title: "Hybrid Modeling of Deformable Linear Objects for Their Cooperative Transportation by Teams of Quadrotors"
 # authors: 
