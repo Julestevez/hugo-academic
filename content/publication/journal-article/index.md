@@ -5,9 +5,9 @@
   - G. Garate
   - JM Lopez Guede
   - M. Graña
-# author_notes:
-# - "Equal contribution"
-# - "Equal contribution"
+author_notes:
+ - "Equal contribution"
+ - "Equal contribution"
 date: "2015-09-01T00:00:00Z"
 doi: 'https://doi.org/10.3390/app12105253'
 
