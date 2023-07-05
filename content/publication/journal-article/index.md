@@ -1,11 +1,11 @@
 ---
- title: "Hybrid Modeling of Deformable Linear Objects for Their Cooperative Transportation by Teams of Quadrotors"
- authors:
-  - admin
+title: "Hybrid Modeling of Deformable Linear Objects for Their Cooperative Transportation by Teams of Quadrotors"
+authors:
+ - admin
 date: ""
 doi: ""
 
-# Schedule page publish date (NOT publication's date).
+ # Schedule page publish date (NOT publication's date).
 publishDate: ""
 
 # Publication type.
