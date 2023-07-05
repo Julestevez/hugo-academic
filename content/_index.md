@@ -25,7 +25,7 @@ sections:
         organization: University of the Basque Country
         organization_url: https://ehu.eus
         title: PhD Computer Science
-        description: Dissertation: Quadrotor Team Modeling and Control for DLO Transportation
+        description: Quadrotor Team Modeling and Control for DLO Transportation
         url:'https://addi.ehu.es/handle/10810/21886'
     
       - date_end: '2003-09-01'
