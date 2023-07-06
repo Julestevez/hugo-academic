@@ -28,8 +28,8 @@ sections:
         title: PhD Computer Science
         url: 'https://addi.ehu.es/handle/10810/21886'
     
-      - date_end: '2003-09-01'
-        date_start: '2009-06-30'
+      - date_end: '2009-06-30'
+        date_start: '2003-09-01'
         organization: TECNUN - University of Navarra
         organization_url: https://tecnun.unav.edu/
         title: MS Industrial Engineering
