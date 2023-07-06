@@ -1,6 +1,6 @@
 ---
-# title: Example talk
-title: charlas
+title: Example talk
+
 # event: Wowchemy Conference
 # event_url: https://example.org
 
