@@ -19,7 +19,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: ""
-publication_short: "*Applied Sciences*, 12(10), 5253"
+publication_short: "*Neurocomputing*, 271, 95-103"
 
 abstract: This paper deals with the realization of physical proof of concept experiments in the paradigm of Linked Multi-Component Robotic Systems (LMCRS). The main objective is to demonstrate that the controllers learned through Reinforcement Learning (RL) algorithms with different state space formalizations and different spatial discretizations in a simulator are reliable in a real world configuration of the task of transporting a hose by a single robot. This one is a prototypical example of LMCRS task (extendable to much more complex tasks). We describe how the complete system has been designed and implemented. Two different previously learned RL controllers have been tested solving two different LMCRS control problems, using different state space modeling and discretization step in each case. The physical realizations validate previously published simulation based results, giving a strong argument in favor of the suitability of RL techniques to deal with LMCRS systems.
 
