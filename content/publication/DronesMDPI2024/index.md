@@ -2,8 +2,9 @@
 title: "Review of Aerial Transportation of Suspended-Cable Payloads with Quadrotors"
 authors:
  - admin
- - M. Graña
+ - G. Garate
  - JM Lopez-Guede
+ - M. Larrea
 date: "2024-01-25"
 doi: "https://doi.org/10.3390/drones8020035"
 
@@ -32,7 +33,7 @@ featured: false
 links:
 # - name: ""
 #   url: ""
-  - url_pdf: 'https://content.iospress.com/articles/integrated-computer-aided-engineering/ica530'
+  - url_pdf: 'https://www.mdpi.com/2504-446X/8/2/35'
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_dataset: ''
 # url_poster: ''
