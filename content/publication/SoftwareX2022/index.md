@@ -17,7 +17,7 @@ publishDate: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "*SoftwareX*, 19, 101111"
 publication_short: "*SoftwareX*, 19, 101111"
 
 abstract: This paper deals with the control of a team of unmanned air vehicles (UAVs), specifically quadrotors, for which their mission is the transportation of a deformable linear object (DLO), i.e., a cable, hose or similar object in quasi-stationary state, while cruising towards destination. Such missions have strong industrial applications in the transportation of hoses or power cables to specific locations, such as the emergency power or water supply in hazard situations such as fires or earthquake damaged structures. This control must be robust to withstand strong and sudden wind disturbances and remain stable after aggressive maneuvers, i.e., sharp changes of direction or acceleration. To cope with these, we have previously developed the online adaptation of the proportional derivative (PD) controllers of the quadrotors thrusters, implemented by a fuzzy logic rule system that experienced adaptation by a stochastic gradient rule. However, sagging conditions appearing when the transporting drones are too close or too far away induce singularities in the DLO catenary models, breaking apart the control system. The paper’s main contribution is the formulation of the hybrid selective model of the DLO sections as either catenaries or parabolas, which allows us to overcome these sagging conditions. We provide the specific decision rule to shift between DLO models. Simulation results demonstrate the performance of the proposed approach under stringent conditions.
@@ -26,7 +26,7 @@ abstract: This paper deals with the control of a team of unmanned air vehicles (
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Quadrotors
+- Mathematic modelling
 featured: false
 
 links:
@@ -44,7 +44,7 @@ links:
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: 'Image credit: [**SoftwareX**]'
   focal_point: ""
   preview_only: false
 
@@ -60,16 +60,7 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+#   slides: example
 ---
 
 
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
