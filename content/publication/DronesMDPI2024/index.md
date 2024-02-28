@@ -1,12 +1,12 @@
 ---
-title: "Hybrid Modeling of Deformable Linear Objects for Their Cooperative Transportation by Teams of Quadrotors"
+title: "Review of Aerial Transportation of Suspended-Cable Payloads with Quadrotors"
 authors:
  - admin
- - JM Lopez-Guede
  - G. Garate
- - M. Graña
-date: "2022-04-07T00:00:00Z"
-doi: "https://doi.org/10.3390/app12105253"
+ - JM Lopez-Guede
+ - M. Larrea
+date: "2024-01-18"
+doi: "https://doi.org/10.3390/drones8020035"
 
  # Schedule page publish date (NOT publication's date).
 publishDate: ""
@@ -19,9 +19,9 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: ""
-publication_short: "*Applied Sciences*, 12(10), 5253"
+publication_short: "*Drones*, 8(2), 35"
 
-abstract: This paper deals with the control of a team of unmanned air vehicles (UAVs), specifically quadrotors, for which their mission is the transportation of a deformable linear object (DLO), i.e., a cable, hose or similar object in quasi-stationary state, while cruising towards destination. Such missions have strong industrial applications in the transportation of hoses or power cables to specific locations, such as the emergency power or water supply in hazard situations such as fires or earthquake damaged structures. This control must be robust to withstand strong and sudden wind disturbances and remain stable after aggressive maneuvers, i.e., sharp changes of direction or acceleration. To cope with these, we have previously developed the online adaptation of the proportional derivative (PD) controllers of the quadrotors thrusters, implemented by a fuzzy logic rule system that experienced adaptation by a stochastic gradient rule. However, sagging conditions appearing when the transporting drones are too close or too far away induce singularities in the DLO catenary models, breaking apart the control system. The paper’s main contribution is the formulation of the hybrid selective model of the DLO sections as either catenaries or parabolas, which allows us to overcome these sagging conditions. We provide the specific decision rule to shift between DLO models. Simulation results demonstrate the performance of the proposed approach under stringent conditions.
+abstract: TPayload transportation and manipulation by rotorcraft drones are receiving a lot of attention from the military, industrial and logistics research areas. The interactions between the UAV and the payload, plus the means of object attachment or manipulation (such as cables or anthropomorphic robotic arms), may be nonlinear, introducing difficulties in the overall system performance. In this paper, we focus on the current state of the art of aerial transportation systems with suspended loads by a single UAV and a team of them and present a review of different dynamic cable models and control systems. We cover the last sixteen years of the existing literature, and we add a discussion for evaluating the main trends in the referenced research works.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -33,7 +33,7 @@ featured: false
 links:
 # - name: ""
 #   url: ""
-  - url_pdf: 'https://www.mdpi.com/2076-3417/12/10/5253'
+  - url_pdf: 'https://www.mdpi.com/2504-446X/8/2/35'
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_dataset: ''
 # url_poster: ''
