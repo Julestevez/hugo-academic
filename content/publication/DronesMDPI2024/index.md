@@ -24,7 +24,7 @@ publication_short: "*Drones*, 8(2), 35"
 abstract: Payload transportation and manipulation by rotorcraft drones are receiving a lot of attention from the military, industrial and logistics research areas. The interactions between the UAV and the payload, plus the means of object attachment or manipulation (such as cables or anthropomorphic robotic arms), may be nonlinear, introducing difficulties in the overall system performance. In this paper, we focus on the current state of the art of aerial transportation systems with suspended loads by a single UAV and a team of them and present a review of different dynamic cable models and control systems. We cover the last sixteen years of the existing literature, and we add a discussion for evaluating the main trends in the referenced research works.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: In this paper, we focus on the current state of the art of aerial transportation systems with suspended loads by a single UAV and a team of them and present a review of different dynamic cable models and control systems.
 
 tags:
 - Quadrotors; control; suspended-loads
