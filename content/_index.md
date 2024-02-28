@@ -65,7 +65,7 @@ sections:
           description: Formulated informed blockchain models, hypotheses.
           organization: edX
           organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
+          title: Visiting Professors
           url: https://www.mirmi.tum.de/mirmi/startseite/
     #    - certificate_url: https://www.datacamp.com
     #      date_end: '2020-12-21'
