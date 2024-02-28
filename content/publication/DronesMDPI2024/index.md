@@ -27,7 +27,10 @@ abstract: Payload transportation and manipulation by rotorcraft drones are recei
 summary: In this paper, we focus on the current state of the art of aerial transportation systems with suspended loads by a single UAV and a team of them and present a review of different dynamic cable models and control systems.
 
 tags:
-- Quadrotors; control; suspended-loads
+- Quadrotors
+- UAVs
+- Control engineering
+- Suspended-loads
 featured: true
 
 links:
