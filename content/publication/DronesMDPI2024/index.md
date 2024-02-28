@@ -1,5 +1,5 @@
 ---
-title: "Online fuzzy modulated adaptive PD control for cooperative aerial transportation of deformable linear objects"
+title: "Review of Aerial Transportation of Suspended-Cable Payloads with Quadrotors"
 authors:
  - admin
  - M. Graña
