@@ -18,16 +18,19 @@ publishDate: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "*Applied Sciences*, 11(12), 5487"
 publication_short: "*Applied Sciences*, 11(12), 5487"
 
-abstract: This paper deals with the control of a team of unmanned air vehicles (UAVs), specifically quadrotors, for which their mission is the transportation of a deformable linear object (DLO), i.e., a cable, hose or similar object in quasi-stationary state, while cruising towards destination. Such missions have strong industrial applications in the transportation of hoses or power cables to specific locations, such as the emergency power or water supply in hazard situations such as fires or earthquake damaged structures. This control must be robust to withstand strong and sudden wind disturbances and remain stable after aggressive maneuvers, i.e., sharp changes of direction or acceleration. To cope with these, we have previously developed the online adaptation of the proportional derivative (PD) controllers of the quadrotors thrusters, implemented by a fuzzy logic rule system that experienced adaptation by a stochastic gradient rule. However, sagging conditions appearing when the transporting drones are too close or too far away induce singularities in the DLO catenary models, breaking apart the control system. The paper’s main contribution is the formulation of the hybrid selective model of the DLO sections as either catenaries or parabolas, which allows us to overcome these sagging conditions. We provide the specific decision rule to shift between DLO models. Simulation results demonstrate the performance of the proposed approach under stringent conditions.
+abstract: In this article, a control strategy approach is proposed for a system consisting of a quadrotor transporting a double pendulum. In our case, we attempt to achieve a swing free transportation of the pendulum, while the quadrotor closely follows a specific trajectory. This dynamic system is highly nonlinear, therefore, the fulfillment of this complex task represents a demanding challenge. Moreover, achieving dampening of the double pendulum oscillations while following a precise trajectory are conflicting goals. We apply a proportional derivative (PD) and a model predictive control (MPC) controllers for this task. Transportation of a multiple pendulum with an aerial robot is a step forward in the state of art towards the study of the transportation of loads with complex dynamics. We provide the modeling of the quadrotor and the double pendulum. For MPC we define the cost function that has to be minimized to achieve optimal control. We report encouraging positive results on a simulated environmentcomparing the performance of our MPC-PD control circuit against a PD-PD configuration, achieving a three fold reduction of the double pendulum maximum swinging angle.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
 - Quadrotors
+- UAVs
+- Suspended loads
+- Control engineering
 featured: false
 
 links:
@@ -45,7 +48,7 @@ links:
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: 'Image credit: [**Applied Sciences**]'
   focal_point: ""
   preview_only: false
 
@@ -64,14 +67,3 @@ projects: []
 # slides: example
 ---
 
-
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
