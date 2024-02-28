@@ -27,8 +27,8 @@ abstract: Payload transportation and manipulation by rotorcraft drones are recei
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Quadrotors
-featured: false
+- Quadrotors; control; suspended-loads
+featured: true
 
 links:
 # - name: ""
@@ -45,7 +45,7 @@ links:
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: 'Image credit:[**Drones (MDPI)**](https://www.mdpi.com/2504-446X/8/2/35#)'
   focal_point: ""
   preview_only: false
 
