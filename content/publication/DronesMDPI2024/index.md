@@ -4,7 +4,7 @@ authors:
  - admin
  - M. Graña
  - JM Lopez-Guede
-date: "2017-04-07T00:00:00Z"
+date: "2024-01-25"
 doi: "https://doi.org/10.3390/drones8020035"
 
  # Schedule page publish date (NOT publication's date).
