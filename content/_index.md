@@ -59,12 +59,12 @@ sections:
           organization_url: https://ec.europa.eu/transparency/expert-groups-register/screen/expert-groups/consult?lang=en&do=groupDetail.groupDetail&groupID=3774
           title: Expert on Artificial Intelligence in Education and Training
           url: ''
-        - certificate_url: https://www.edx.org
+        - certificate_url: https://www.mirmi.tum.de/mirmi/startseite/
           date_end: ''
           date_start: '2021-01-01'
           description: Formulated informed blockchain models, hypotheses.
           organization: edX
-          organization_url: https://www.edx.org
+          organization_url: https://www.mirmi.tum.de/mirmi/startseite/
           title: Visiting Professors
           url: https://www.mirmi.tum.de/mirmi/startseite/
     #    - certificate_url: https://www.datacamp.com
