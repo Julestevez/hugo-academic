@@ -26,7 +26,9 @@ abstract: The importance of educating the next generations in the understanding 
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Quadrotors
+- Artificial intelligence
+- Education
+- EdTech
 featured: false
 
 links:
