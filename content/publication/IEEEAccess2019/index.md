@@ -17,7 +17,7 @@ publishDate: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "*IEEE Access*, 7, 179027-179036"
 publication_short: "*IEEE Access*, 7, 179027-179036"
 
 abstract: The importance of educating the next generations in the understanding of the fundamentals of the upcoming scientific and technological innovations that will force a broad social and economical paradigm change can not be overstressed. One such breakthrough technologies is Artificial Intelligence (AI), specifically machine learning algorithms. Nowadays, the public has little understanding of the workings and implications of AI techniques that are already entering their lives in many ways. We aim to achieve widespread public understanding of these issues in an experiential learning framework. Following a design based research approach, we propose to implement program coding scaffoldings to teach and experiment some basic mechanisms of AI systems. Such experiments would be shedding new light into AI potentials and limitations. In this paper we focus on innovative ways to introduce high school students to the fundamentals and operation of two of the most popular AI algorithms. We describe the elements of a workshop where we provide an academic use-create-modify scaffolding where students work on the Scratch partial coding of the algorithms so they can explore the behavior of the algorithm, gaining understanding of the underlying computational thinking of AI processes. The extent of the impact on the students of this experience is measured through questionnaires filled before and after participation in the workshop. Preliminary experiments offer encouraging results, showing that the workshop has differential impact on the way students understand AI.
@@ -32,7 +32,7 @@ featured: false
 links:
 # - name: ""
 #   url: ""
-  - url_pdf: '[https://www.mdpi.com/2076-3417/12/10/5253](https://ieeexplore.ieee.org/document/8915693)'
+  - url_pdf: '[Article](https://ieeexplore.ieee.org/document/8915693)'
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_dataset: ''
 # url_poster: ''
@@ -44,7 +44,7 @@ links:
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: 'Image credit: [**IEEE Access**]'
   focal_point: ""
   preview_only: false
 
@@ -62,15 +62,3 @@ projects: []
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
-
-
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
