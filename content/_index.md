@@ -63,7 +63,7 @@ sections:
           date_end: ''
           date_start: '2021-01-01'
           description: Formulated informed blockchain models, hypotheses.
-          organization: MIRMI
+          # organization: MIRMI
           icon:MIRMI.png
           organization_url: https://www.mirmi.tum.de/mirmi/startseite/
           title: Visiting Professors
