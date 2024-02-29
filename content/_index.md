@@ -63,16 +63,16 @@ sections:
           date_end: ''
           date_start: '2021-01-01'
           description: Formulated informed blockchain models, hypotheses.
-     #    organization: MIRMI
-     #     icon:MIRMI.png
+          organization: MIRMI
+    #     icon:MIRMI.png
           organization_url: https://www.mirmi.tum.de/mirmi/startseite/
-          title: Visiting Professor
-          url: 'https://www.mirmi.tum.de/mirmi/startseite/'
+          title: Visiting Professors
+          url: https://www.mirmi.tum.de/mirmi/startseite/
     #    - certificate_url: https://www.datacamp.com
     #      date_end: '2020-12-21'
     #      date_start: '2020-07-01'
     #      description: ''
-           organization: DataCamp
+    #      organization: DataCamp
     #      organization_url: https://www.datacamp.com
     #      title: 'Object-Oriented Programming in R'
     #      url: ''
