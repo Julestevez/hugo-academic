@@ -58,7 +58,7 @@ sections:
           organization: European Commission
           organization_url: https://ec.europa.eu/transparency/expert-groups-register/screen/expert-groups/consult?lang=en&do=groupDetail.groupDetail&groupID=3774
           title: Expert on Artificial Intelligence in Education and Training
-     #     url: ''
+          url: ''
         - certificate_url: https://www.mirmi.tum.de/mirmi/startseite/
           date_end: ''
           date_start: '2021-01-01'
@@ -66,8 +66,8 @@ sections:
      #    organization: MIRMI
      #     icon:MIRMI.png
           organization_url: https://www.mirmi.tum.de/mirmi/startseite/
-          title: Visiting Professors
-          url: https://www.mirmi.tum.de/mirmi/startseite/
+          title: Visiting Professor
+          url: 'https://www.mirmi.tum.de/mirmi/startseite/'
     #    - certificate_url: https://www.datacamp.com
     #      date_end: '2020-12-21'
     #      date_start: '2020-07-01'
