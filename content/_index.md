@@ -66,7 +66,7 @@ sections:
           organization: MIRMI
     #     icon:MIRMI.png
           organization_url: https://www.mirmi.tum.de/mirmi/startseite/
-          title: Visiting Professors
+          title: Visiting Professor
           url: https://www.mirmi.tum.de/mirmi/startseite/
     #    - certificate_url: https://www.datacamp.com
     #      date_end: '2020-12-21'
