@@ -61,8 +61,8 @@ sections:
           url: ''
         - certificate_url: https://www.mirmi.tum.de/mirmi/startseite/
           date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses.
+          date_start: '2023-06-01'
+          description: Visiting professor in cited universities.
           organization: MIRMI
     #     icon:MIRMI.png
           organization_url: https://www.mirmi.tum.de/mirmi/startseite/
