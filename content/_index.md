@@ -58,7 +58,7 @@ sections:
           organization: European Commission
           organization_url: https://ec.europa.eu/transparency/expert-groups-register/screen/expert-groups/consult?lang=en&do=groupDetail.groupDetail&groupID=3774
           title: Expert on Artificial Intelligence in Education and Training
-          url: ''
+     #     url: ''
         - certificate_url: https://www.mirmi.tum.de/mirmi/startseite/
           date_end: ''
           date_start: '2021-01-01'
