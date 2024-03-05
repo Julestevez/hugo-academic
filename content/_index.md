@@ -69,12 +69,12 @@ sections:
           title: Visiting Professor
           url: https://www.mirmi.tum.de/mirmi/startseite/
           
-        -  certificate_url: ''
-           date_end: ''
-    -      date_start: '2019-07-01'
+    #    -  certificate_url: ''
+    #       date_end: ''
+    #       date_start: '2019-07-01'
     #      description: ''
-           organization: Universitá de la Sapienza
-           organization_url: https://www.uniroma1.it/en/pagina-strutturale/home
+    #       organization: Universitá de la Sapienza
+    #       organization_url: https://www.uniroma1.it/en/pagina-strutturale/home
     #      title: 'Object-Oriented Programming in R'
     #      url: ''
     design:
