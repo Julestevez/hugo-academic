@@ -68,13 +68,13 @@ sections:
           organization_url: https://www.mirmi.tum.de/mirmi/startseite/
           title: Visiting Professor
           url: https://www.mirmi.tum.de/mirmi/startseite/
-          date_start: '2019-11-10'
+          
     #    - certificate_url: https://www.datacamp.com
     #      date_end: '2020-12-21'
-    #      date_start: '2020-07-01'
+    -      date_start: '2019-07-01'
     #      description: ''
-    #      organization: DataCamp
-    #      organization_url: https://www.datacamp.com
+           organization: Universitá de la Sapienza
+           organization_url: https://www.uniroma1.it/en/pagina-strutturale/home
     #      title: 'Object-Oriented Programming in R'
     #      url: ''
     design:
