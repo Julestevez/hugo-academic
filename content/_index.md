@@ -63,7 +63,7 @@ sections:
         - certificate_url: https://www.mirmi.tum.de/mirmi/startseite/
           date_end: ''
     #      date_start: '2023-06-01'
-          description: Visiting professor in following universities
+          description: Visiting professor in following universities<br />
           organization: MIRMI
     #     icon:MIRMI.png
           organization_url: https://www.mirmi.tum.de/mirmi/startseite/
