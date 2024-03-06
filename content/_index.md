@@ -62,7 +62,11 @@ sections:
         - certificate_url: https://www.mirmi.tum.de/mirmi/startseite/
           date_end: ''
           date_start: '2023-06-01'
-          description: Visiting professor in cited universities.
+          description: Visiting professor in following universities.
+        - 2023: MIRMI
+        - 2019: Sapienza
+        - 2020: University of Kavala
+        - 2019: Grenoble
           organization: MIRMI
     #     icon:MIRMI.png
           organization_url: https://www.mirmi.tum.de/mirmi/startseite/
