@@ -24,7 +24,7 @@ sections:
         date_start: '2012-11-05'
         organization: University of the Basque Country
         organization_url: https://ehu.eus
-        description: Quadrotor Team Modeling and Control for DLOs Transportation<br />- robotito
+        description: Quadrotor Team Modeling and Control for DLOs Transportation
         
         title: PhD Computer Science
         url: 'https://addi.ehu.es/handle/10810/21886'
@@ -63,7 +63,7 @@ sections:
         - certificate_url: https://www.mirmi.tum.de/mirmi/startseite/
           date_end: ''
           date_start: '2023-06-01'
-          description: Visiting professor in following universities.
+          description: Visiting professor in following universities.<br />- June 2023: [Munich Institute of Robotics and Machine Intelligence (MIRMI) (Technical University of Munich)](https://www.mirmi.tum.de/en/mirmi/home/)<br /> November 2019: [Cognitive Cooperating Robots Lab, Universitá la Sapienza](http://labrococo.diag.uniroma1.it/) <br /> Summer 2018: [Machine Learning and Vision Research Group, International Hellenic University](http://mlv.cs.ihu.gr/) <br /> Summer 2017: [GIPSA Lab, University of Grenoble-Alps](https://www.gipsa-lab.grenoble-inp.fr/) <br /> October 2017: [Wrozclaw University of Science and Technology](https://pwr.edu.pl/en/)
           organization: MIRMI
     #     icon:MIRMI.png
           organization_url: https://www.mirmi.tum.de/mirmi/startseite/
