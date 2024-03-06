@@ -63,7 +63,7 @@ sections:
         - certificate_url: https://www.mirmi.tum.de/mirmi/startseite/
           date_end: ''
           date_start: '2023-06-01'
-          description: Visiting professor in following universities.<br />- November 2019: [Cognitive Cooperating Robots Lab, Universitá la Sapienza](http://labrococo.diag.uniroma1.it/) <br />- Summer 2018: [Machine Learning and Vision Research Group, International Hellenic University](http://mlv.cs.ihu.gr/) <br />- Summer 2017: [GIPSA Lab, University of Grenoble-Alps](https://www.gipsa-lab.grenoble-inp.fr/) <br />- October 2017: [Wrozclaw University of Science and Technology](https://pwr.edu.pl/en/)
+          description: Visiting professor in following universities.<br />- October 2017: [Wrozclaw University of Science and Technology](https://pwr.edu.pl/en/)
           organization: MIRMI
     #     icon:MIRMI.png
           organization_url: https://www.mirmi.tum.de/mirmi/startseite/
