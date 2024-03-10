@@ -63,7 +63,10 @@ sections:
         - certificate_url: https://www.mirmi.tum.de/mirmi/startseite/
           date_end: ''
     #      date_start: '2023-06-01'
-          description: Visiting professor in following universities<br />.
+          description: >-
+        Visiting professor in following universities<br
+        />- June 2023: [LinKóping University](https://liu.se/en)<br
+        />- November 2019: [University of Sheffield](https://www.sheffield.ac.uk/) <br />
           organization: MIRMI
     #     icon:MIRMI.png
           organization_url: https://www.mirmi.tum.de/mirmi/startseite/
