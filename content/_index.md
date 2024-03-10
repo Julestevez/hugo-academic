@@ -62,7 +62,7 @@ sections:
           url: ''
         - certificate_url: https://www.mirmi.tum.de/mirmi/startseite/
           date_end: ''
-    #      date_start: '2023-06-01'
+          date_start: '2023-06-01'
           description: >-
         Visiting professor in following universities<br
         />- June 2023: [LinKóping University](https://liu.se/en)<br
