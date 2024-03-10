@@ -5,7 +5,7 @@ authors:
  - JM Lopez-Guede
  - admin
  - M. Graña
-date: "2024-03-03T00:00:00Z"
+date: 2024-02-20"
 doi: "https://doi.org/10.3390/electronics13061005"
 
  # Schedule page publish date (NOT publication's date).
