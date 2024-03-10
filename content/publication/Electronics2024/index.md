@@ -1,5 +1,5 @@
 ---
-title: "Machine Learning First Response to COVID-19: A Systematic Literature Review"
+title: "Machine Learning First Response to COVID-19. A Systematic Literature Review"
 authors:
  - G. Badiola
  - JM Lopez-Guede
