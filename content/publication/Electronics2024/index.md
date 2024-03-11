@@ -1,12 +1,12 @@
 ---
-title: "A Hybrid Control Approach for the Swing Free Transportation of a Double Pendulum with a Quadrotor"
+title: "Machine Learning First Response to COVID-19. A Systematic Literature Review"
 authors:
- - admin
+ - G. Badiola
  - JM Lopez-Guede
- - G. Garate
+ - admin
  - M. Graña
-date: "2021-08-07T00:00:00Z"
-doi: "https://doi.org/10.3390/app11125487"
+date: "2024-03-07T00:00:00Z"
+doi: "https://doi.org/10.3390/electronics13061005"
 
  # Schedule page publish date (NOT publication's date).
 publishDate: ""
