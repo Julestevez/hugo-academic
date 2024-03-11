@@ -61,8 +61,8 @@ sections:
           title: Expert on Artificial Intelligence in Education and Training
           url: ''
         - certificate_url: 
-          date_end: ''
-          date_start: ''
+          date_end: '2022-10-10'
+          date_start: '2021-07-01'
           description: >-
             Visiting professor in following universities<br/>
             - June 2023: [Technische Universität München](https://www.mirmi.tum.de/mirmi/startseite/))<br/>
