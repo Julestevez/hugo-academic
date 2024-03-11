@@ -65,8 +65,11 @@ sections:
           date_start: ''
           description: >-
             Visiting professor in following universities<br/>
-            - June 2023: [LinKóping University](https://liu.se/en)<br/>
-            - November 2019: [University of Sheffield](https://www.sheffield.ac.uk/) <br />
+            - June 2023: [Technische Universität München](https://www.mirmi.tum.de/mirmi/startseite/))<br/>
+            - November 2019: [Sapienza Università di Roma](http://labrococo.diag.uniroma1.it/) <br />
+            - June 2018: [International Hellenic University](http://mlv.cs.ihu.gr/) <br />
+            - June 2017: [Université Grenoble Alpes](https://www.gipsa-lab.grenoble-inp.fr/) <br/>
+            - October 2017: [Wroclaw University of Science and Technology](https://www.kssk.pwr.edu.pl/teams/zum) <br/>
           organization: 
     #     icon:MIRMI.png
     #     organization_url: 
