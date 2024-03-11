@@ -18,25 +18,25 @@ publishDate: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Applied Sciences*, 11(12), 5487"
-publication_short: "*Applied Sciences*, 11(12), 5487"
+publication: "*Electronics*, 13(6), 1005"
+publication_short: "*Electronics*, 13(6), 1005"
 
-abstract: In this article, a control strategy approach is proposed for a system consisting of a quadrotor transporting a double pendulum. In our case, we attempt to achieve a swing free transportation of the pendulum, while the quadrotor closely follows a specific trajectory. This dynamic system is highly nonlinear, therefore, the fulfillment of this complex task represents a demanding challenge. Moreover, achieving dampening of the double pendulum oscillations while following a precise trajectory are conflicting goals. We apply a proportional derivative (PD) and a model predictive control (MPC) controllers for this task. Transportation of a multiple pendulum with an aerial robot is a step forward in the state of art towards the study of the transportation of loads with complex dynamics. We provide the modeling of the quadrotor and the double pendulum. For MPC we define the cost function that has to be minimized to achieve optimal control. We report encouraging positive results on a simulated environmentcomparing the performance of our MPC-PD control circuit against a PD-PD configuration, achieving a three fold reduction of the double pendulum maximum swinging angle.
+abstract: The declaration of the COVID-19 pandemic triggered global efforts to control and manage the virus impact. Scientists and researchers have been strongly involved in developing effective strategies that can help policy makers and healthcare systems both to monitor the spread and to mitigate the impact of the COVID-19 pandemic. Machine Learning (ML) and Artificial Intelligence (AI) have been applied in several fronts of the fight. Foremost is diagnostic assistance, encompassing patient triage, prediction of ICU admission and mortality, identification of mortality risk factors, and discovering treatment drugs and vaccines. **Objective**. This systematic review aims to identify original research studies involving actual patient data to construct ML- and AI-based models for clinical decision support for early response during the pandemic years. **Methods**. Following the PRISMA methodology, two large academic research publication indexing databases were searched to investigate the use of ML-based technologies and their applications in healthcare to combat the COVID-19 pandemic. **Results**. The literature search returned more than 1000 papers; 220 were selected according to specific criteria. The selected studies illustrate the usefulness of ML with respect to supporting healthcare professionals for (1) triage of patients depending on disease severity, (2) predicting admission to hospital or Intensive Care Units (ICUs), (3) search for new or repurposed treatments and (4) the identification of mortality risk factors. **Conclusion**. The ML/AI research community was able to propose and develop a wide variety of solutions for predicting mortality, hospitalizations and treatment recommendations for patients with COVID-19 diagnostic, opening the door for further integration of ML in clinical practices fighting this and forecoming pandemics. However, the translation to the clinical practice is impeded by the heterogeneity of both the datasets and the methodological and computational approaches. The literature lacks robust model validations supporting this desired translation.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: This systematic review aims to identify original research studies involving actual patient data to construct ML- and AI-based models for clinical decision support for early response during the pandemic years.
 
 tags:
-- Quadrotors
-- UAVs
-- Suspended loads
-- Control engineering
+- Healthcare
+- Big data
+- Data analytics
+- machine learning
 featured: false
 
 links:
 # - name: ""
 #   url: ""
-  - url_pdf: 'https://www.mdpi.com/2076-3417/11/12/5487'
+  - url_pdf: 'https://www.mdpi.com/2079-9292/13/6/1005'
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_dataset: ''
 # url_poster: ''
@@ -48,7 +48,7 @@ links:
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Applied Sciences**]'
+  caption: 'Image credit: [**Electronics**]'
   focal_point: ""
   preview_only: false
 
