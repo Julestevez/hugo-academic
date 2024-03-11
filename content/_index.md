@@ -61,11 +61,11 @@ sections:
           title: Expert on Artificial Intelligence in Education and Training
           url: ''
         - certificate_url: 
-          date_end: '2022-10-10'
-          date_start: '2021-07-01'
+     #    date_end: '2022-10-10'
+     #    date_start: '2021-07-01'
           description: >-
             Visiting professor in following universities<br/>
-            - June 2023: [Technische Universität München](https://www.mirmi.tum.de/mirmi/startseite/))<br/>
+            - June 2023: [Technische Universität München](https://www.mirmi.tum.de/mirmi/startseite/)<br/>
             - November 2019: [Sapienza Università di Roma](http://labrococo.diag.uniroma1.it/) <br />
             - June 2018: [International Hellenic University](http://mlv.cs.ihu.gr/) <br />
             - June 2017: [Université Grenoble Alpes](https://www.gipsa-lab.grenoble-inp.fr/) <br/>
