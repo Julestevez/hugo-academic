@@ -1,12 +1,12 @@
 ---
-title: "Review of Aerial Transportation of Suspended-Cable Payloads with Quadrotors"
+title: "Machine Learning First Response to COVID-19. A Systematic Literature Review"
 authors:
  - admin
  - G. Garate
  - JM Lopez-Guede
  - M. Larrea
-date: "2024-01-25"
-doi: "https://doi.org/10.3390/drones8020035"
+date: "2024-02-25"
+doi: "https://doi.org/10.3390/electronics13061005"
 
  # Schedule page publish date (NOT publication's date).
 publishDate: ""
@@ -18,8 +18,8 @@ publishDate: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Drones*, 8(2), 35"
-publication_short: "*Drones*, 8(2), 35"
+publication: "*Electronics*, 13(6), 1005"
+publication_short: "*Electronics*, 13(6), 1005"
 
 abstract: Payload transportation and manipulation by rotorcraft drones are receiving a lot of attention from the military, industrial and logistics research areas. The interactions between the UAV and the payload, plus the means of object attachment or manipulation (such as cables or anthropomorphic robotic arms), may be nonlinear, introducing difficulties in the overall system performance. In this paper, we focus on the current state of the art of aerial transportation systems with suspended loads by a single UAV and a team of them and present a review of different dynamic cable models and control systems. We cover the last sixteen years of the existing literature, and we add a discussion for evaluating the main trends in the referenced research works.
 
