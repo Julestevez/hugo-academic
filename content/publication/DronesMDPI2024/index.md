@@ -2,7 +2,7 @@
 title: "Review of Aerial Transportation of Suspended-Cable Payloads with Quadrotors"
 authors:
  - admin
- - G. Garate
+ - G. GarateLL
  - JM Lopez-Guede
  - M. Larrea
 date: "2024-01-25"
