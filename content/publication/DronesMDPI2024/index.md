@@ -31,7 +31,7 @@ tags:
 - UAVs
 - Control engineering
 - Suspended-loads
-featured: true
+featured: false
 
 links:
 # - name: ""
