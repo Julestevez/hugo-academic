@@ -1,12 +1,12 @@
 ---
-title: "A low-cost vision system for online reciprocal collision avoidance with UAVs"
+title: "Artificial Intelligence Applied to Drone Control: A State of the Art"
 authors:
- - admin
- - E. Nuñez
- - G. Garate
+ - D. Caballero
  - JM Lopez-Guede
-date: "2024-05-07"
-doi: "https://doi.org/10.1016/j.ast.2024.109190"
+ - admin
+ - M. Graña
+date: "2024-06-17"
+doi: "https://doi.org/10.3390/drones8070296"
 
  # Schedule page publish date (NOT publication's date).
 publishDate: ""
@@ -18,25 +18,26 @@ publishDate: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Aerospace Science & Technology*, 150, 109190"
-publication_short: "*Aerospace Sci&Tech*, 150, 109190"
+publication: "*Drones*, 8(7), 296"
+publication_short: "*Drones*, 8(7), 296"
 
-abstract: In this article, we propose a reciprocal collision avoidance system for autonomous drones, based on computer vision and using relative positioning in an indoor environment. This dynamic environment represents a demanding challenge, but it is crucial for any future existence of multiple drones operating in urban areas. We use commercial AR Drone 2.0 robots, which represent that our proposal is suitable for low-cost equipment. In our case, we attempt to achieve the collision avoidance of two drones that fly one towards the other and react online autonomously to signals received by their computer vision systems with a decentralized control strategy. We test this in four different experiments with demanding conditions. For this purpose, we get the camera signal of the onboard drones and tune their behavior to react smoothly and precisely. We report encouraging positive results and provide the code we use in the experiments for replication.
+abstract: The integration of Artificial Intelligence (AI) tools and techniques has provided a significant advance in drone technology. Besides the military applications, drones are being increasingly used for logistics and cargo transportation, agriculture, construction, security and surveillance, exploration, and mobile wireless communication. The synergy between drones and AI has led to notable progress in the autonomy of drones, which have become capable of completing complex missions without direct human supervision. This study of the state of the art examines the impact of AI on improving drone autonomous behavior, covering from automation to complex real-time decision making. The paper provides detailed examples of the latest developments and applications. Ethical and regulatory challenges are also considered for the future evolution of this field of research, because drones with AI have the potential to greatly change our socioeconomic landscape.
 
 # Summary. An optional shortened abstract.
-summary: In this article, we propose a reciprocal collision avoidance system for autonomous drones, based on computer vision and using relative positioning in an indoor environment.
+summary: his study of the state of the art examines the impact of AI on improving drone autonomous behavior, covering from automation to complex real-time decision making.
 
 tags:
 - Quadrotors
 - UAVs
 - Control engineering
 - Suspended-loads
-featured: true
+- Artificial intelligence
+featured: false
 
 links:
 # - name: ""
 #   url: ""
-  - url_pdf: 'https://www.sciencedirect.com/science/article/pii/S1270963824003225'
+  - url_pdf: 'https://www.mdpi.com/2504-446X/8/7/296'
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_dataset: ''
 # url_poster: ''
@@ -48,7 +49,7 @@ links:
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit:[**Aerospace Sci&Tech**](https://www.sciencedirect.com/science/article/pii/S1270963824003225)'
+  caption: 'Image credit:[**MDPI**](https://www.mdpi.com/2504-446X/8/7/296)'
   focal_point: ""
   preview_only: false
 
