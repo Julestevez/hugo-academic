@@ -1,7 +1,7 @@
 ---
 title: "Artificial Intelligence Applied to Drone Control: A State of the Art"
 authors:
- - D. Caballero
+ - D. Caballeros
  - JM Lopez-Guede
  - admin
  - M. Graña
