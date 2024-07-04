@@ -27,7 +27,7 @@ summary: This paper presents a NOx Sensor machine learning model for a highly ef
 
 tags:
 - engines
-featured: true
+featured: false
 
 links:
 # - name: ""
