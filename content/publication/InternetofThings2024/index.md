@@ -23,7 +23,7 @@ publication_short: "*Internet of Things*, 27, 101259"
 abstract: This paper presents a NOx Sensor machine learning model for a highly efficient 2MW power generation lean burn gas engine with an active pre-chamber. As gas power generation continues to evolve, engine efficiency and the accurate measurement of NOx emissions has taken on greater importance. However, the working life of existing NOx sensors pales in comparison to the lifecycle of an engine. This paper studies a series of machine learning NOx sensor models and carries out a comparative analysis. We introduce a predictive analytics model used for monitoring the emissions of active pre-chamber gas engines. This real deployment aims to detect the deviations in emissions across an entire fleet of gas engines, even when no physical sensors are installed in the engines. Finally, a model has been implemented that allows the prediction of NOx values, in engines that did not have them initially, with a 5–10 % precision. For example, with NOx at 120 ppm, the virtual sensor provides values close to +-10 ppm. It has been observed that such features as the setpoint value of the active pre-chamber gas pressure, in a lean burn gas engine with active pre-chamber, are among those parameters that have the greatest impact on the model estimation.
 
 # Summary. An optional shortened abstract.
-summary: This paper presents a NOx Sensor machine learning model for a highly efficient 2MW power generation lean burn gas engine with an active pre-chamber. .
+summary: This paper presents a NOx Sensor machine learning model for a highly efficient 2MW power generation lean burn gas engine with an active pre-chamber.
 
 tags:
 - engines
