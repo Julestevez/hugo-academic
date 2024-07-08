@@ -1,5 +1,5 @@
 ---
-title: "Artificial Intelligence Applied to Drone Control: A State of the Art"
+title: "Harnessing NOx emission management: A virtual sensor model for natural gas power generation engines with active pre-chamber"
 authors:
  - J. del Valle-Echavarri
  - JM Lopez-Guede
