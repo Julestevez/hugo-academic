@@ -4,9 +4,8 @@ authors:
  - J. del Valle-Echavarri
  - JM Lopez-Guede
  - admin
- - M. Graña
 date: "2024-06-17"
-doi: "https://doi.org/10.3390/drones8070296"
+doi: "https://doi.org/10.1016/j.iot.2024.101259"
 
  # Schedule page publish date (NOT publication's date).
 publishDate: ""
@@ -18,8 +17,8 @@ publishDate: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Drones*, 8(7), 296"
-publication_short: "*Drones*, 8(7), 296"
+publication: "*Internet of Things*, 27, 101259"
+publication_short: "*Internet of Things*, 27, 101259"
 
 abstract: The integration of Artificial Intelligence (AI) tools and techniques has provided a significant advance in drone technology. Besides the military applications, drones are being increasingly used for logistics and cargo transportation, agriculture, construction, security and surveillance, exploration, and mobile wireless communication. The synergy between drones and AI has led to notable progress in the autonomy of drones, which have become capable of completing complex missions without direct human supervision. This study of the state of the art examines the impact of AI on improving drone autonomous behavior, covering from automation to complex real-time decision making. The paper provides detailed examples of the latest developments and applications. Ethical and regulatory challenges are also considered for the future evolution of this field of research, because drones with AI have the potential to greatly change our socioeconomic landscape.
 
@@ -37,7 +36,7 @@ featured: false
 links:
 # - name: ""
 #   url: ""
-  - url_pdf: 'https://www.mdpi.com/2504-446X/8/7/296'
+  - url_pdf: 'https://www.sciencedirect.com/science/article/pii/S2542660524002002'
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_dataset: ''
 # url_poster: ''
