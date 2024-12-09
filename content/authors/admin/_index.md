@@ -78,5 +78,5 @@ email: ''
 highlight_name: true
 ---
 
-Julian Estévez is a Professor and researcher at University of the Basque Country (UPV/EHU) in Spain. His research interests are cooperative robotics, UAVs, artificial intelligence and autonomous navigation. Moreover, he was a member of the Expert Group of the European Commission for Ethics of AI in Education, and now he takes part in the development of [AI Code Practice](https://digital-strategy.ec.europa.eu/en/policies/ai-code-practice).
+Julian Estévez is a Professor and researcher at University of the Basque Country (UPV/EHU) in Spain. His research interests are cooperative robotics, UAVs, artificial intelligence and autonomous navigation. Moreover, he was a member of the Expert Group of the [European Commission for Ethics of AI in Education](https://ec.europa.eu/transparency/expert-groups-register/screen/expert-groups/consult?lang=en&do=groupDetail.groupDetail&groupID=3774), and now he takes part in the development of [AI Code Practice](https://digital-strategy.ec.europa.eu/en/policies/ai-code-practice).
 {style="text-align: justify;"}
