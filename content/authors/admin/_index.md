@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Robótica e inteligencia artificial
+role: Artificial Intelligence and Robotics Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
