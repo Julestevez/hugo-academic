@@ -159,7 +159,7 @@ sections:
       text: |-
         Estaré encantado de escucharte.
       # Contact (add or remove contact options as necessary)
-      email: hola@julianestevez.com
+      email: hola@julianestevez.eu
       
       contact_links:
         - icon: twitter
