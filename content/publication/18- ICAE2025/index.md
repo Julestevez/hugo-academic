@@ -1,11 +1,12 @@
 ---
-title: "Reinforcement Learning Based Trajectory Planning for Multi-UAV Load Transportation"
+title: "Enhanced Dynamic Obstacle Avoidance for Linked Multi-Agent Systems by an Extended Hybrid Reciprocal Velocity Obstacle Model"
 authors:
  - admin
  - JM Lopez-Guede
  - J. del Valle-Echavarri
+ - D. Caballero-Martin
  - M. Graña
-date: "2024-10-09"
+date: "2025-07-05"
 doi: "https://doi.org/10.1109/ACCESS.2024.3470509"
 
  # Schedule page publish date (NOT publication's date).
@@ -18,13 +19,29 @@ publishDate: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*IEEE Access*, 12, 144009"
-publication_short: "*IEEE Access*, 12, 144009"
+publication: "*Integrated Computer-Aided Engineering*, 12, 144009"
+publication_short: "*ICAE*, 12, 144009"
 
-abstract: This study introduces a novel trajectory planning approach for the transportation of cable-suspended loads employing three quadrotors, relying on a reinforcement learning (RL) algorithm. The primary objective of this path planning method is to transport the cargo smoothly while avoiding its swing. Within this proposed solution, the value function of the RL is estimated through a feature vector and a parameter vector tailored to the specific problem. The parameter vector undergoes iterative updates via a batch method, subsequently guiding the generation of the desired trajectory through a greedy strategy. Ultimately, this desired trajectory is communicated to the quadrotor controller to ensure precise trajectory tracking. Simulation outcomes demonstrate the capability of the trained parameters to effectively fit the value function.
+abstract: Obstacle avoidance is a critical issue in autonomous agent spatial navigation, moreover in the case of team coordinated
+navigation with moving obstacles. Algorithms for obstacle avoidance by unconstrained teams of agents, i.e. agents
+that have no relative position restrictions, such as the Reciprocal Velocity Obstacle (RVO), and the Hybrid Reciprocal
+Velocity Obstacle (HRVO) have been proposed in the literature. However, in some tasks the agents must comply with
+relative spatial restrictions, i.e. agents must maintain specific distances between them within some tolerance thresholds.
+These tasks include robotic team coordination, human-robot collaboration and autonomous vehicle platooning. This
+paper presents a novel Extended Hybrid Reciprocal Velocity Obstacle (EHRVO) algorithm for multi-agent collision
+avoidance that incorporates linked agent constraints. The proposed approach introduces proximity constraints between
+paired agents while adapting the collision avoidance geometry to maintain these relationships. This research work
+extends the HRVO framework to create a hierarchical set of constraints that prioritize maintenance of spatial consistent
+agent pairs or triads while ensuring collision-free trajectories. Prior to actual physical implementation, the EHRVO
+navigation algorithm is validated through exhaustive simulations involving multiple paired agents and triads navigating
+in cluttered spaces with many moving obstacles, namely the agents in the other teams. Results demonstrate that this
+novel approach successfully maintains the spatial relative positions of linked group agents while avoiding collisions
+with other agents, showing significant improvements over traditional RVO and HRVO algorithms in scenarios requiring
+coordinated movement.
 
 # Summary. An optional shortened abstract.
-summary: This study introduces a novel trajectory planning approach for the transportation of cable-suspended loads employing three quadrotors, relying on a reinforcement learning (RL) algorithm. The primary objective of this path planning method is to transport the cargo smoothly while avoiding its swing.
+summary: This paper presents a novel Extended Hybrid Reciprocal Velocity Obstacle (EHRVO) algorithm for multi-agent collision
+avoidance that incorporates linked agent constraints. The proposed approach introduces proximity constraints between paired agents while adapting the collision avoidance geometry to maintain these relationships. This research work extends the HRVO framework to create a hierarchical set of constraints that prioritize maintenance of spatial consistent agent pairs or triads while ensuring collision-free trajectories. .
 
 tags:
 - Quadrotors
