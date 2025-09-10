@@ -7,7 +7,7 @@ authors:
  - D. Caballero-Martin
  - M. Graña
 date: "2025-07-05"
-doi: "https://doi.org/10.1109/ACCESS.2024.3470509"
+doi: "https://doi.org/10.1177/10692509251368675"
 
  # Schedule page publish date (NOT publication's date).
 publishDate: ""
@@ -39,8 +39,8 @@ featured: true
 links:
 # - name: ""
 #   url: ""
-  - url_pdf: 'https://ieeexplore.ieee.org/abstract/document/10699338'
-# url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+  - url_pdf: 'https://journals.sagepub.com/doi/epub/10.1177/10692509251368675'
+# url_code: 'https://github.com/Julestevez/Extended-HRVO-for-linked-agents'
 # url_dataset: ''
 # url_poster: ''
 # url_project: ''
@@ -51,7 +51,7 @@ links:
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit:[**IEEE**](https://ieeexplore.ieee.org/abstract/document/10699338)'
+  caption: 'Image credit:[**SAGE**](https://journals.sagepub.com/cms/10.1177/10692509251368675/asset/2c466fd3-abdd-4b47-b6a4-8bbd27277f8b/assets/images/large/10.1177_10692509251368675-fig6.jpg)'
   focal_point: ""
   preview_only: false
 
